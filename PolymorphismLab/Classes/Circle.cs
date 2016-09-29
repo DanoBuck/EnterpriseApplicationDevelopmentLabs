@@ -19,7 +19,16 @@ namespace PolymorphismLab.Classes
 
         public virtual Circle Translate(Vertex vertex, int amountToTranslate)
         {
-            return new Circle();
+            int vertexX = vertex.XCoordinate - amountToTranslate;
+            int vertexY = vertex.YCoordinate - amountToTranslate;
+            return new Circle()
+            {
+                OriginVertex = new Vertex
+                {
+                    XCoordinate = vertexX,
+                    YCoordinate = vertexY
+                }
+            };
         }
 
         public double Area(int radius)
