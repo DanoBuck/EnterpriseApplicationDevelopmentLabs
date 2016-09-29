@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassesLab", "Abstr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismLab", "..\PolymorphismLab\PolymorphismLab.csproj", "{214C1DF1-DE36-409E-B897-B30FAA8A46EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsForLabs", "..\UnitTestsForLabs\UnitTestsForLabs.csproj", "{8A8674E3-4D04-40BB-8158-578FDA5E322C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{214C1DF1-DE36-409E-B897-B30FAA8A46EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{214C1DF1-DE36-409E-B897-B30FAA8A46EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{214C1DF1-DE36-409E-B897-B30FAA8A46EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8674E3-4D04-40BB-8158-578FDA5E322C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8674E3-4D04-40BB-8158-578FDA5E322C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8674E3-4D04-40BB-8158-578FDA5E322C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8674E3-4D04-40BB-8158-578FDA5E322C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

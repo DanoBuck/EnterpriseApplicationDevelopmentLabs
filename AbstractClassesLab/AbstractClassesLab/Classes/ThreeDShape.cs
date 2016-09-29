@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClassesLab1
+namespace AbstractClassesLab
 {
     public abstract class ThreeDShape
     {

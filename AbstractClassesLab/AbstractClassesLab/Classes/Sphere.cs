@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace AbstractClassesLab1
+namespace AbstractClassesLab
 {
-    class Sphere : ThreeDShape
+    public class Sphere : ThreeDShape
     {
         private double radius { get; set; }
 
