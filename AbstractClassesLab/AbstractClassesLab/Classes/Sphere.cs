@@ -16,7 +16,6 @@ namespace AbstractClassesLab
         {
         }
 
-        // To Be Finished
         public override double CalculateVolumeOfShape()
         {
             double fraction = 1.3333333;
