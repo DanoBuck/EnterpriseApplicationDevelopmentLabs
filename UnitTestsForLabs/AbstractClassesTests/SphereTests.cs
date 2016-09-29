@@ -24,7 +24,7 @@ namespace UnitTestsForLabs
         }
 
         [TestMethod]
-        public void TestToString()
+        public void TestToStringOnShape()
         {
             String result = shape.ToString();
             
