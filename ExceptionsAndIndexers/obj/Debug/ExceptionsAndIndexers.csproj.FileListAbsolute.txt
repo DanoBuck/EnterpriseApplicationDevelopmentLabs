@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\ExceptionsAndIndexers\bin\Debug\ExceptionsAndIndexers.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\ExceptionsAndIndexers\bin\Debug\ExceptionsAndIndexers.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\ExceptionsAndIndexers\obj\Debug\ExceptionsAndIndexers.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\ExceptionsAndIndexers\obj\Debug\ExceptionsAndIndexers.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\ExceptionsAndIndexers\obj\Debug\ExceptionsAndIndexers.pdb

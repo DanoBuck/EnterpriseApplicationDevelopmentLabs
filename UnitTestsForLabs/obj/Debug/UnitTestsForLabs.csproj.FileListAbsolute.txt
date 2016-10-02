@@ -21,3 +21,7 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\Interfaces.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\Interfaces.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\ExceptionsAndIndexers.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\ExceptionsAndIndexers.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\NSubstitute.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\NSubstitute.xml

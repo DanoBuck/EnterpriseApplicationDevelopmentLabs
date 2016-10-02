@@ -35,8 +35,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ExceptionsAndIndexers">
+      <HintPath>..\ExceptionsAndIndexers\bin\Debug\ExceptionsAndIndexers.dll</HintPath>
+    </Reference>
     <Reference Include="Interfaces">
       <HintPath>..\Interfaces\bin\Debug\Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="NSubstitute">
+      <HintPath>..\..\..\..\Third Year Project\GitHubSource\PublicServicesCardsProject\packages\NSubstitute.1.10.0.0\lib\net45\NSubstitute.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
@@ -54,6 +60,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AbstractClassesTests\SphereTests.cs" />
+    <Compile Include="ExceptionsAndIndexersTests\CalculatorTests.cs" />
+    <Compile Include="ExceptionsAndIndexersTests\ModuleCAResultsTests.cs" />
     <Compile Include="Interfaces\SphereTests.cs" />
     <Compile Include="PolymorphismTests\CircleTests.cs" />
     <Compile Include="PolymorphismTests\LineTests.cs" />
