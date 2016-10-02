@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumsAndStructs\bin\Debug\EnumsAndStructs.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumsAndStructs\bin\Debug\EnumsAndStructs.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumsAndStructs\obj\Debug\EnumsAndStructs.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumsAndStructs\obj\Debug\EnumsAndStructs.pdb

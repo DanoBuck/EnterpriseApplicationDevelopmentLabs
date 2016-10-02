@@ -25,3 +25,5 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\ExceptionsAndIndexers.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\NSubstitute.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\NSubstitute.xml
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\EnumsAndStructs.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\EnumsAndStructs.pdb

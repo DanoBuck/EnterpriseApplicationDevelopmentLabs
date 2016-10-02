@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EnumsAndStructs">
+      <HintPath>..\EnumsAndStructs\bin\Debug\EnumsAndStructs.dll</HintPath>
+    </Reference>
     <Reference Include="ExceptionsAndIndexers">
       <HintPath>..\ExceptionsAndIndexers\bin\Debug\ExceptionsAndIndexers.dll</HintPath>
     </Reference>
@@ -60,6 +63,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AbstractClassesTests\SphereTests.cs" />
+    <Compile Include="EnumsAndStructsTests\StructsTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\CalculatorTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\ModuleCAResultsTests.cs" />
     <Compile Include="Interfaces\SphereTests.cs" />
