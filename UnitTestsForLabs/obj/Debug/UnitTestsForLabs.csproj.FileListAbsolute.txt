@@ -9,3 +9,13 @@ H:\EnterpriseApplicationDevelopmentOnGit\EnterpriseApplicationDevelopmentLabs\Un
 H:\EnterpriseApplicationDevelopmentOnGit\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.pdb
 H:\EnterpriseApplicationDevelopmentOnGit\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\PolymorphismLab.dll
 H:\EnterpriseApplicationDevelopmentOnGit\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\PolymorphismLab.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\UnitTestsForLabs.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\UnitTestsForLabs.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\AbstractClassesLab.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\PolymorphismLab.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\AbstractClassesLab.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\PolymorphismLab.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.pdb

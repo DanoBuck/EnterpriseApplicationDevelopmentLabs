@@ -1,9 +1,4 @@
-﻿using PolymorhismLab.Classes;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
 namespace PolymorphismLab.Classes
 {
@@ -14,27 +9,29 @@ namespace PolymorphismLab.Classes
 
         public override string ToString()
         {
-            return "Coordinates: (" + OriginVertex.XCoordinate + "," + OriginVertex.YCoordinate + ")" + "\nColour: " + Colour;
+            return "Coordinates: (" + OriginVertex.XCoordinate + "," + OriginVertex.YCoordinate + ")" + "\nColour: " + Colour + "\nRadius: " + Radius;
         }
 
         public virtual Circle Translate(Vertex vertex, int amountToTranslate)
         {
-            int vertexX = vertex.XCoordinate - amountToTranslate;
-            int vertexY = vertex.YCoordinate - amountToTranslate;
+            int vertexX = vertex.XCoordinate + amountToTranslate;
+            int vertexY = vertex.YCoordinate + amountToTranslate;
             return new Circle()
             {
+                Colour = Colour,
                 OriginVertex = new Vertex
                 {
                     XCoordinate = vertexX,
                     YCoordinate = vertexY
-                }
+                },
+                Radius = Radius
             };
         }
 
-        public double Area(int radius)
+        public double Area(double radius)
         {
             double area = Math.PI * radius * radius;
-            return area;
+            return Math.Round(area, 2);
         }
     }
 }

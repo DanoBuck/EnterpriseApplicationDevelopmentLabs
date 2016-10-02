@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PolymorhismLab.Classes;
+using PolymorphismLab.Classes;
 using System;
 
 namespace UnitTestsForLabs
@@ -28,14 +28,17 @@ namespace UnitTestsForLabs
         public void TranslateTestForXCoordinates()
         {
             var result = shape.Translate(12, vertex);
-            Assert.AreEqual(result.XCoordinate, 0);
+            Assert.AreEqual(result.XCoordinate, 24);
+            Assert.AreEqual(result.YCoordinate, 24);
         }
 
         [TestMethod]
         public void TranslateTestForYCoordinates()
         {
             var result = shape.Translate(-200, vertex);
-            Assert.AreEqual(result.YCoordinate, 212);
+            Assert.AreEqual(result.XCoordinate, -188);
+            Assert.AreEqual(result.YCoordinate, -188);
+
         }
 
         [TestMethod]

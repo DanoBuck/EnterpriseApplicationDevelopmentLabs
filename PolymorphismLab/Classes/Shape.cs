@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using System;
 
-namespace PolymorhismLab.Classes
+namespace PolymorphismLab.Classes
 {
     public class Shape
     {
@@ -16,8 +13,8 @@ namespace PolymorhismLab.Classes
 
         public Vertex Translate(int amountToTranslate, Vertex vertexTranslation)
         {
-            vertexTranslation.XCoordinate -= amountToTranslate;
-            vertexTranslation.YCoordinate -= amountToTranslate;
+            vertexTranslation.XCoordinate += amountToTranslate;
+            vertexTranslation.YCoordinate += amountToTranslate;
             return vertexTranslation;
         }
     }

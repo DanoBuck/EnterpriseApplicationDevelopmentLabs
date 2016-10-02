@@ -51,6 +51,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AbstractClassesTests\SphereTests.cs" />
+    <Compile Include="PolymorphismTests\CircleTests.cs" />
+    <Compile Include="PolymorphismTests\LineTests.cs" />
     <Compile Include="PolymorphismTests\ShapeTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
