@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Interfaces">
+      <HintPath>..\Interfaces\bin\Debug\Interfaces.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -51,6 +54,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AbstractClassesTests\SphereTests.cs" />
+    <Compile Include="Interfaces\SphereTests.cs" />
     <Compile Include="PolymorphismTests\CircleTests.cs" />
     <Compile Include="PolymorphismTests\LineTests.cs" />
     <Compile Include="PolymorphismTests\ShapeTests.cs" />
