@@ -27,3 +27,5 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\NSubstitute.xml
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\Delegates.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\Delegates.pdb

@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\bin\Debug\Delegates.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\obj\Debug\Delegates.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\obj\Debug\Delegates.pdb
