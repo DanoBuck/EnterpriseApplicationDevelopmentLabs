@@ -69,7 +69,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AbstractClassesTests\SphereTests.cs" />
-    <Compile Include="CollectionsAndGenericsTests\StudentArrayListTests.cs" />
+    <Compile Include="CollectionsAndGenericsTests\ArrayListTests\StudentArrayListTests.cs" />
+    <Compile Include="CollectionsAndGenericsTests\ListTests\ListTests.cs" />
     <Compile Include="DelegateCipherTests\CipherTests.cs" />
     <Compile Include="EnumsAndStructsTests\StructsTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\CalculatorTests.cs" />
