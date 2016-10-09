@@ -19,5 +19,19 @@ namespace UnitTestsForLabs.DelegateCipherTests
             string result = CaesarCipher.ReverseEncryption("my encypted string");
             Assert.AreEqual(result, "gnirts detpycne ym");
         }
+
+        [TestMethod]
+        public void SimpleCaesarCipher1SpaceTestWithDelegate()
+        {
+            string result = CaesarCipher.TestMyCaesarCipherWithDelegate("my encypted string");
+            Assert.AreEqual(result, "nz fodzqufe tusjoh");
+        }
+
+        [TestMethod]
+        public void SimpleReverseCipherTestWithDelegate()
+        {
+            string result = CaesarCipher.TestMyReverseCipherWithDelegate("my encypted string");
+            Assert.AreEqual(result, "gnirts detpycne ym");
+        }
     }
 }

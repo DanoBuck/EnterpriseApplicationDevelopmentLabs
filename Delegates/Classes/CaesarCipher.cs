@@ -57,6 +57,19 @@ namespace Delegates.Classes
             return result.ToString();
         }
 
+        public static string TestMyCaesarCipherWithDelegate(string plain)
+        {
+            EncryptMyCipher encrpter = null;
+            encrpter += EncryptSimple1Step;
+            return encrpter(plain);
+        }
+
+        public static string TestMyReverseCipherWithDelegate(string plain)
+        {
+            EncryptMyCipher encrpter = new EncryptMyCipher(ReverseEncryption);
+            return encrpter(plain);
+        }
+
         //EncryptMyCipher encrpyt;
 
         //encrypt = new EncryptMyCipher("To Bbe Encrypted");
