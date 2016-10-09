@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CollectionsAndGenerics">
+      <HintPath>..\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.dll</HintPath>
+    </Reference>
     <Reference Include="Delegates">
       <HintPath>..\Delegates\bin\Debug\Delegates.dll</HintPath>
     </Reference>
@@ -66,6 +69,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AbstractClassesTests\SphereTests.cs" />
+    <Compile Include="CollectionsAndGenericsTests\StudentArrayListTests.cs" />
     <Compile Include="DelegateCipherTests\CipherTests.cs" />
     <Compile Include="EnumsAndStructsTests\StructsTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\CalculatorTests.cs" />

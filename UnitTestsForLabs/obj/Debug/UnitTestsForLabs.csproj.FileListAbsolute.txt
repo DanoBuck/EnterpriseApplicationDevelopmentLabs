@@ -29,3 +29,5 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\obj\Debug\UnitTestsForLabs.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\Delegates.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\Delegates.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\CollectionsAndGenerics.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\UnitTestsForLabs\bin\Debug\CollectionsAndGenerics.pdb
