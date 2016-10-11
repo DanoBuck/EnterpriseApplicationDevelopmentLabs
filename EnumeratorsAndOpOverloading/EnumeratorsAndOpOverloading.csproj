@@ -40,8 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\StudentArrayListIT.cs" />
-    <Compile Include="Classes\StudentIT.cs" />
+    <Compile Include="Classes\Iterator\StudentArrayListIT.cs" />
+    <Compile Include="Classes\Iterator\StudentIT.cs" />
+    <Compile Include="Classes\OperatorOverloading\MoneyConversion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

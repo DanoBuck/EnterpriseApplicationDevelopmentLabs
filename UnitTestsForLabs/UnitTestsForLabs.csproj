@@ -53,9 +53,6 @@
     <Reference Include="Interfaces">
       <HintPath>..\Interfaces\bin\Debug\Interfaces.dll</HintPath>
     </Reference>
-    <Reference Include="NSubstitute">
-      <HintPath>..\..\..\..\Third Year Project\GitHubSource\PublicServicesCardsProject\packages\NSubstitute.1.10.0.0\lib\net45\NSubstitute.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -76,6 +73,7 @@
     <Compile Include="CollectionsAndGenericsTests\ListTests\ListTests.cs" />
     <Compile Include="DelegateCipherTests\CipherTests.cs" />
     <Compile Include="EnumeratorsAndOpOverloadingTests\IteratorTest.cs" />
+    <Compile Include="EnumeratorsAndOpOverloadingTests\OperatorOverloadingTests.cs" />
     <Compile Include="EnumsAndStructsTests\StructsTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\CalculatorTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\ModuleCAResultsTests.cs" />
