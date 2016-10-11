@@ -1,5 +1,4 @@
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.pdb
-C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.pdb

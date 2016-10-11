@@ -41,6 +41,9 @@
     <Reference Include="Delegates">
       <HintPath>..\Delegates\bin\Debug\Delegates.dll</HintPath>
     </Reference>
+    <Reference Include="EnumeratorsAndOpOverloading">
+      <HintPath>..\EnumeratorsAndOpOverloading\bin\Debug\EnumeratorsAndOpOverloading.dll</HintPath>
+    </Reference>
     <Reference Include="EnumsAndStructs">
       <HintPath>..\EnumsAndStructs\bin\Debug\EnumsAndStructs.dll</HintPath>
     </Reference>
@@ -72,6 +75,7 @@
     <Compile Include="CollectionsAndGenericsTests\ArrayListTests\StudentArrayListTests.cs" />
     <Compile Include="CollectionsAndGenericsTests\ListTests\ListTests.cs" />
     <Compile Include="DelegateCipherTests\CipherTests.cs" />
+    <Compile Include="EnumeratorsAndOpOverloadingTests\IteratorTest.cs" />
     <Compile Include="EnumsAndStructsTests\StructsTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\CalculatorTests.cs" />
     <Compile Include="ExceptionsAndIndexersTests\ModuleCAResultsTests.cs" />
