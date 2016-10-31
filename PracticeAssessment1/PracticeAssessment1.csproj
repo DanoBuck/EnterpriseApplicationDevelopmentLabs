@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6891FAF1-C3CC-42F3-BD1D-F825311C7FC2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PracticeAssessment1</RootNamespace>
+    <AssemblyName>PracticeAssessment1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\MediaFile.cs" />
+    <Compile Include="Classes\MusicFile.cs" />
+    <Compile Include="Classes\PlayList.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractClassesLab\AbstractClassesLab\AbstractClassesLab.csproj">
+      <Project>{dba3d17c-11df-4f7b-9792-c0c3dff77bd5}</Project>
+      <Name>AbstractClassesLab</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CollectionsAndGenerics\CollectionsAndGenerics.csproj">
+      <Project>{f13a8f95-ba51-4f12-928e-9e3e2b6305d4}</Project>
+      <Name>CollectionsAndGenerics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Delegates\Delegates.csproj">
+      <Project>{32abb30b-18a6-46d9-a755-b06f17687744}</Project>
+      <Name>Delegates</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EnumeratorsAndOpOverloading\EnumeratorsAndOpOverloading.csproj">
+      <Project>{4d3c9ace-6681-4128-8dcf-b7d261c16e78}</Project>
+      <Name>EnumeratorsAndOpOverloading</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EnumsAndStructs\EnumsAndStructs.csproj">
+      <Project>{fd7f495b-5ae0-4f72-962c-ea1c270076ac}</Project>
+      <Name>EnumsAndStructs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ExceptionsAndIndexers\ExceptionsAndIndexers.csproj">
+      <Project>{113a4627-2fed-410a-a0af-3fa43ec1d658}</Project>
+      <Name>ExceptionsAndIndexers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj">
+      <Project>{2595a203-4532-4e06-b69b-3ee122ebde48}</Project>
+      <Name>Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PolymorphismLab\PolymorphismLab.csproj">
+      <Project>{214c1df1-de36-409e-b897-b30faa8a46ec}</Project>
+      <Name>PolymorphismLab</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
