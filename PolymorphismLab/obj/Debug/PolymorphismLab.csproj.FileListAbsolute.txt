@@ -7,3 +7,5 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PolymorphismLab\bin\Debug\PolymorphismLab.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PolymorphismLab\obj\Debug\PolymorphismLab.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PolymorphismLab\obj\Debug\PolymorphismLab.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PolymorphismLab\bin\Debug\PolymorphismLab.dll.CodeAnalysisLog.xml
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PolymorphismLab\bin\Debug\PolymorphismLab.dll.lastcodeanalysissucceeded

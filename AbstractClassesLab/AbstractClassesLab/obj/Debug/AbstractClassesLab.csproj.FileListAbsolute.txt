@@ -7,3 +7,5 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\AbstractClassesLab\AbstractClassesLab\bin\Debug\AbstractClassesLab.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\AbstractClassesLab\AbstractClassesLab\obj\Debug\AbstractClassesLab.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\AbstractClassesLab\AbstractClassesLab\obj\Debug\AbstractClassesLab.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\AbstractClassesLab\AbstractClassesLab\bin\Debug\AbstractClassesLab.dll.CodeAnalysisLog.xml
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\AbstractClassesLab\AbstractClassesLab\bin\Debug\AbstractClassesLab.dll.lastcodeanalysissucceeded

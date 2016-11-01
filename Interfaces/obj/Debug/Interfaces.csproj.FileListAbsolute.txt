@@ -2,3 +2,5 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Interfaces\bin\Debug\Interfaces.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Interfaces\obj\Debug\Interfaces.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Interfaces\bin\Debug\Interfaces.dll.CodeAnalysisLog.xml
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Interfaces\bin\Debug\Interfaces.dll.lastcodeanalysissucceeded

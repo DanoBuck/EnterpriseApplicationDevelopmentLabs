@@ -2,3 +2,5 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumeratorsAndOpOverloading\bin\Debug\EnumeratorsAndOpOverloading.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumeratorsAndOpOverloading\obj\Debug\EnumeratorsAndOpOverloading.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumeratorsAndOpOverloading\obj\Debug\EnumeratorsAndOpOverloading.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumeratorsAndOpOverloading\bin\Debug\EnumeratorsAndOpOverloading.dll.CodeAnalysisLog.xml
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\EnumeratorsAndOpOverloading\bin\Debug\EnumeratorsAndOpOverloading.dll.lastcodeanalysissucceeded

@@ -83,9 +83,9 @@ namespace UnitTestsForLabs.CollectionsAndGenericsTests
                 Student s = studentList[5];
                 Assert.Fail("Test should fail!");
             }
-            catch (IndexOutOfRangeException ind)
+            catch (ArgumentOutOfRangeException ind)
             {
-                Assert.IsTrue(ind is IndexOutOfRangeException);
+                Assert.IsTrue(ind is ArgumentOutOfRangeException);
             }
         }
 
@@ -110,9 +110,9 @@ namespace UnitTestsForLabs.CollectionsAndGenericsTests
                 Student s = studentList["X"];
                 Assert.Fail("Test should fail!");
             }
-            catch (IndexOutOfRangeException ind)
+            catch (ArgumentOutOfRangeException ind)
             {
-                Assert.IsTrue(ind is IndexOutOfRangeException);
+                Assert.IsTrue(ind is ArgumentOutOfRangeException);
             }
         }
     }

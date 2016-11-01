@@ -54,7 +54,7 @@ namespace EnumeratorsAndOpOverloading.Classes
             {
                 if (i > StudentArrayList.Count)
                 {
-                    throw new IndexOutOfRangeException("Index out of bounds!");
+                    throw new ArgumentOutOfRangeException("Index out of bounds!");
                 }
                 else
                 {
@@ -81,7 +81,7 @@ namespace EnumeratorsAndOpOverloading.Classes
                 // Throw an exception if the student is not found
                 if (hasBeenFound == false)
                 {
-                    throw new IndexOutOfRangeException("Student not found!");
+                    throw new ArgumentOutOfRangeException("Student not found!");
                 }
                 return foundStudent;
             }
