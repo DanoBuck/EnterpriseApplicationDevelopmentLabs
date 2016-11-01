@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratorsAndOpOverloading
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeAssessment1", "..\PracticeAssessment1\PracticeAssessment1.csproj", "{6891FAF1-C3CC-42F3-BD1D-F825311C7FC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeAssessment4", "..\PracticeAssessment4\PracticeAssessment4.csproj", "{12E998A2-029A-4EA5-BAF4-A1E65326D2B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{6891FAF1-C3CC-42F3-BD1D-F825311C7FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6891FAF1-C3CC-42F3-BD1D-F825311C7FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6891FAF1-C3CC-42F3-BD1D-F825311C7FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E998A2-029A-4EA5-BAF4-A1E65326D2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E998A2-029A-4EA5-BAF4-A1E65326D2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E998A2-029A-4EA5-BAF4-A1E65326D2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E998A2-029A-4EA5-BAF4-A1E65326D2B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

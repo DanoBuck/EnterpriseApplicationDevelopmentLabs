@@ -56,6 +56,9 @@
     <Reference Include="PracticeAssessment1">
       <HintPath>..\PracticeAssessment1\bin\Debug\PracticeAssessment1.dll</HintPath>
     </Reference>
+    <Reference Include="PracticeAssessment4">
+      <HintPath>..\PracticeAssessment4\bin\Debug\PracticeAssessment4.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -86,6 +89,8 @@
     <Compile Include="PolymorphismTests\ShapeTests.cs" />
     <Compile Include="PracticeAssessment1Tests\MusicFileTests.cs" />
     <Compile Include="PracticeAssessment1Tests\PlayListTests.cs" />
+    <Compile Include="PracticeAssessment4Tests\SoccerPlayerTests.cs" />
+    <Compile Include="PracticeAssessment4Tests\SportsTeamTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

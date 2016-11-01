@@ -19,5 +19,3 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment1\obj\Debug\PracticeAssessment1.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment1\obj\Debug\PracticeAssessment1.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment1\obj\Debug\PracticeAssessment1.pdb
-C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment1\bin\Debug\PracticeAssessment1.dll.CodeAnalysisLog.xml
-C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment1\bin\Debug\PracticeAssessment1.dll.lastcodeanalysissucceeded

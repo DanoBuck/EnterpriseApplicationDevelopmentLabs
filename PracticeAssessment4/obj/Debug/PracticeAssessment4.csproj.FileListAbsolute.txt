@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment4\bin\Debug\PracticeAssessment4.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment4\bin\Debug\PracticeAssessment4.pdb
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment4\obj\Debug\PracticeAssessment4.dll
+C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\PracticeAssessment4\obj\Debug\PracticeAssessment4.pdb

@@ -2,5 +2,3 @@ C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseA
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\bin\Debug\Delegates.pdb
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\obj\Debug\Delegates.dll
 C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\obj\Debug\Delegates.pdb
-C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\bin\Debug\Delegates.dll.CodeAnalysisLog.xml
-C:\Users\Daniel\Desktop\College Work\Enterprise Software Development\EnterpriseApplicationDevelopmentLabs\Delegates\bin\Debug\Delegates.dll.lastcodeanalysissucceeded
